@@ -1,0 +1,6 @@
+google-genai==1.73.1
+tavily-python==0.7.23
+python-frontmatter==1.1.0
+PyYAML>=6.0.3
+python-dotenv>=1.0.0
+structlog>=24.0.0
