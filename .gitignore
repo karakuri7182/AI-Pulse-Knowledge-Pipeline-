@@ -3,3 +3,10 @@
 .claude/
 .mcp.json
 .env
+
+# Python
+__pycache__/
+*.pyc
+
+# Pipeline data
+outputs/seen_urls.db
